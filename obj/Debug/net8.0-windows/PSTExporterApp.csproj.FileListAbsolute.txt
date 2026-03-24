@@ -1,0 +1,14 @@
+C:\Git-Repos\PSTExporter\bin\Debug\net8.0-windows\PSTExporterApp.exe
+C:\Git-Repos\PSTExporter\bin\Debug\net8.0-windows\PSTExporterApp.deps.json
+C:\Git-Repos\PSTExporter\bin\Debug\net8.0-windows\PSTExporterApp.runtimeconfig.json
+C:\Git-Repos\PSTExporter\bin\Debug\net8.0-windows\PSTExporterApp.dll
+C:\Git-Repos\PSTExporter\bin\Debug\net8.0-windows\PSTExporterApp.pdb
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\PSTExporterApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\PSTExporterApp.AssemblyInfoInputs.cache
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\PSTExporterApp.AssemblyInfo.cs
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\PSTExporterApp.csproj.CoreCompileInputs.cache
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\PSTExporterApp.dll
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\refint\PSTExporterApp.dll
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\PSTExporterApp.pdb
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\PSTExporterApp.genruntimeconfig.cache
+C:\Git-Repos\PSTExporter\obj\Debug\net8.0-windows\ref\PSTExporterApp.dll
